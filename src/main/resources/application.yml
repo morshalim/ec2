@@ -1,0 +1,8 @@
+logging:
+  pattern:
+    console: '[%thread][%p] | %d{yyyy-MM-dd HH:mm:ss} | C: %C{1} | M: %M | :%msg%n'
+  level:
+    root: INFO
+    org.springframework: INFO
+    com.ec2: DEBUG
+    org.hibernate: INFO
