@@ -1,4 +1,4 @@
-<b>This project is used to start the EC2 instance from browser.<br /><br />
+<b>This project is used to start the EC2 instance from rest API.<br /><br />
 Step 1: Add accessKey, SecretKey and instanceId value in application.properties file.<br />
 Step 2: Check the application running status by clicking the URL http://localhost:8080/ec2/test<br />
 Step 3: Start the EC2 instance by clicking http://localhost:8080/ec2/start<br /><br /></b>
